@@ -1,7 +1,7 @@
 # qb-multicharacter
 qb-multicharacter design
 
-# Simple cool design for qb-multicharacter
+# design for qb-multicharacter
 Preview:
 ![](https://media.discordapp.net/attachments/960524367643705395/996721596125425794/Screenshot_109.png?width=1202&height=676)
 # Real design
