@@ -2,7 +2,7 @@ local cam = nil
 local charPed = nil
 local QBCore = exports['qb-core']:GetCoreObject()
 
--- Main Thread
+--- Main Thread
 
 CreateThread(function()
 	while true do
@@ -51,7 +51,7 @@ local function openCharMenu(bool)
     end)
 end
 
--- Events
+---- Events
 
 AddEventHandler('QBCore:Client:OnPlayerLoaded', function()
     SendNUIMessage({
